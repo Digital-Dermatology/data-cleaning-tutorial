@@ -24,6 +24,11 @@ The major repositories containing resources for data cleaning will be presented 
 | ![Simone](images/simone.jpeg) | ![Fabian](images/fabian.jpeg) |
 | Algorithmic Business Research Lab<br>Department of Informatics<br>Lucerne University of Applied Sciences and Arts | Digital Dermatology Group<br>Department of Biomedical Engineering<br>University of Basel |
 
+# Links
+
+- [AMLD EPFL 2024 Website](https://2024.appliedmldays.org)
+- [Tickets](https://ti.to/applied-machine-learning-days/2024)
+
 # Format
 
 Our workshop will consist of short theoretical explanations, critical discussions of pros and cons, presentations of tools, and guided and independent coding sessions.
