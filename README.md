@@ -39,3 +39,8 @@ Given that the topic of data quality is almost ubiquitous and often neglected, o
 A UNIX-like command line terminal is needed, as found natively on Linux and OS X or available on Windows via e.g. WSL.
 Have your favourite small- to medium-size image dataset, best if coming from the real world and therefore not perfectly clean, downloaded and ready to try improving it yourself at the end of the session.
 
+--
+
+Expect updates until the tutorial date March 23rd, 2024!
+
+--
