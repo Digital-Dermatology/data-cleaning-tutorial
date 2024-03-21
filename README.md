@@ -13,9 +13,9 @@ The major repositories containing resources for data cleaning will be presented 
 - 14:00 -- 14:45 Phenomenology of data quality issues
 - 14:45 -- 15:30 Modern data cleaning methods
 - *15:30 -- 16:00 Coffee break*
-- 16:00 -- 16:30 Modern data cleaning libraries
-- 16:30 -- 17:15 Hands-on session: clean your own image dataset
-- 17:15 -- 17:30 Discussion based on findings and wrap-up
+- 16:00 -- 16:15 Modern data cleaning libraries
+- 16:15 -- 17:15 Hands-on session: clean your own image dataset
+- 17:15 -- 17:30 Discussion of findings and wrap-up
 
 # Preparation
 
