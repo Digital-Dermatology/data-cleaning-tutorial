@@ -17,6 +17,23 @@ The major repositories containing resources for data cleaning will be presented 
 - 16:30 -- 17:15 Hands-on session: clean your own image dataset
 - 17:15 -- 17:30 Discussion based on findings and wrap-up
 
+# Preparation
+
+A UNIX-like command line terminal is needed, as found natively on Linux and OS X or available on Windows via e.g. WSL.
+
+## Requirements for cleaning your own dataset
+
+If you want to try cleaning on your own image dataset instead of a toy one, it should fulfil the following criteria:
+
+1. Between 1'000 and 5'000 images is best, between 500 and 10'000 images is ok
+1. Resolution at least 128 x 128 (images will be resized to 224 x 224)
+1. Image formats `.jpg`, `.jpeg`, `.png`, `.ppm`, `.bmp`, `.pgm`, `.tif`, `.tiff`, `.webp`
+1. Only a single classification label per image is supported for label errors
+1. In this case, images should be in subfolders by class (e.g. `dataset/class1/image1.jpg`)
+
+These are suggestions to achieve good results by the end of the tutorial.
+Since some methods and tools have longer runtimes, we will recommend what to try first and you should also take your hardware into account.
+
 # Speakers
 
 | Simone Lionetti | Fabian Gröger |
@@ -46,14 +63,3 @@ At the end of the session, attendants will have gained a set of tools to examine
 Given that the topic of data quality is almost ubiquitous and often neglected, our audience includes any user of data-driven methods and/or anyone with the goal of collecting a good dataset.
 This can range from students at the end of their bachelor to established researchers and experienced consultants, mostly in computer science but also biology, engineering, medicine, and so on.
 Thanks to the mix of basic and advanced topics, most people will have something new and interesting to take home.
-
-# Preparation
-
-A UNIX-like command line terminal is needed, as found natively on Linux and OS X or available on Windows via e.g. WSL.
-Have your favourite small- to medium-size image dataset, best if coming from the real world and therefore not perfectly clean, downloaded and ready to try improving it yourself at the end of the session.
-
---
-
-Expect updates until the tutorial date March 23rd, 2024!
-
---
