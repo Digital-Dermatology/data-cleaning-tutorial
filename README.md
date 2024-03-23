@@ -21,6 +21,10 @@ The major repositories containing resources for data cleaning will be presented 
 
 A UNIX-like command line terminal is needed, as found natively on Linux and OS X or available on Windows via e.g. WSL.
 
+## GitHub repository
+
+[![Static Badge](https://img.shields.io/badge/Digital--Dermatology%2Fdata--cleaning--hands--on-gray?logo=github)](https://github.com/Digital-Dermatology/data-cleaning-hands-on)
+
 ## Requirements for cleaning your own dataset
 
 If you want to try cleaning on your own image dataset instead of a toy one, it should fulfil the following criteria:
