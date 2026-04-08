@@ -27,6 +27,10 @@ A UNIX-like command line terminal is needed, as found natively on Linux and OS X
 
 [![Static Badge](https://img.shields.io/badge/Digital--Dermatology%2Fdata--cleaning--hands--on-gray?logo=github)](https://github.com/Digital-Dermatology/data-cleaning-hands-on)
 
+## Link to slides
+
+[![Static Badge](https://img.shields.io/badge/slides-8A2BE2)](https://filesender.switch.ch/filesender2/?s=download&token=3073d1e7-6da9-4b88-b5ee-165c49b38297)
+
 ## Requirements for cleaning your own dataset
 
 If you want to try cleaning on your own image dataset instead of a toy one, it should fulfil the following criteria:
